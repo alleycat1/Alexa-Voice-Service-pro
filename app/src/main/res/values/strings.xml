@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyOwnAlexa</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="hello_blank_fragment">Hi Dhanraj</string>
+    <string name="app_light_description">An awesome Alexa app through which you can interact with Alexa. You can also use this app for various purposes such as in your projects by building skills using Alexa Skill Kit.</string>
+    <string name="about_alexa">Developed by <a href="https://github.com/raj10071997"> @raj10071997</a></string>
+    <string name="about_license">License</string>
+    <string name="about_license_sub">Check MIT License terms used on MyOwnAlexa</string>
+    <string name="theme">Theme</string>
+    <string name="general">General</string>
+    <string name="alarm_tone">Alarm Tones</string>
+    <string name="alarm_sub">Set an alarm tone for the alarm</string>
+    <string name="theme_color">Theme Color</string>
+    <string name="theme_sub">Select a primary theme color</string>
+    <string name="basic_theme">Basic Theme</string>
+    <string name="white_basic_theme">White</string>
+    <string name="dark_basic_theme">Dark</string>
+    <string name="dark_amoled_basic_theme">Dark Amoled</string>
+    <string name="ok_action">OK</string>
+    <string name="cancel">CANCEL</string>
+
+</resources>
